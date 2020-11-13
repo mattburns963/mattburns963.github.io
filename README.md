@@ -9,7 +9,7 @@ Poster 10AUG18.pdf
 
 This simple [project propoal](https://github.com/mattburns963/mattburns963.github.io/blob/master/Poster%2010AUG18.pdf) was created for my first class at Bellevue University. Please note it is only a proposal and not compled a project.
 
-Curious about retail sales and how to forecast them? This [PowerPoint](https://github.com/mattburns963/mattburns963.github.io/blob/master/Retail%2028FEB20.pptx) shows how to accomplish that in R Studio.
+Curious about retail sales and how to forecast them? This [presentation](https://github.com/mattburns963/mattburns963.github.io/blob/master/National%20Retail%20Sales.pdf) shows how to accomplish that in R Studio.
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
