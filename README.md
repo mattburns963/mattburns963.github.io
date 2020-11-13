@@ -7,7 +7,10 @@ You can use the [editor on GitHub](https://github.com/mattburns963/mattburns963.
 
 Poster 10AUG18.pdf
 
-https://github.com/mattburns963/mattburns963.github.io/blob/master/Poster%2010AUG18.pdf
+This simple [project propoal](https://github.com/mattburns963/mattburns963.github.io/blob/master/Poster%2010AUG18.pdf) was created for my first class at Bellevue University. Please note it is only a proposal and not compled a project.
+
+s 
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
