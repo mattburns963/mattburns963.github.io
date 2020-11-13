@@ -1,9 +1,11 @@
 # Welcome to the Project Respository for Matt Burns!
 
-This repository contains both completed projects as well as the code behind the projects.
-
 ![image](https://user-images.githubusercontent.com/43834735/99123297-8419cb00-25c5-11eb-9d5c-5b459a8056e3.png)
 
+This repository contains both completed projects as well as the code behind the projects.
+<br/><br/>
+<br/><br/>
+<br/><br/>
 
 ## A Simple Project proposal
 This simple [project propoal](https://github.com/mattburns963/mattburns963.github.io/blob/master/Poster%2010AUG18.pdf) was created for my first class at Bellevue University. Please note it is only a proposal and not compled a project.
