@@ -2,8 +2,7 @@
 
 This repository contains both completed projects as well as the code behind the projects.
 
-![](https://github.com/mattburns963/mattburns963.github.io/blob/master/2017-08-09_16-05-23_412%20(1).jpg)
-
+![image](https://user-images.githubusercontent.com/43834735/99123297-8419cb00-25c5-11eb-9d5c-5b459a8056e3.png)
 
 
 ## A Simple Project proposal
