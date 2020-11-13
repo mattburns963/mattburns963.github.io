@@ -14,6 +14,11 @@ This simple [project propoal](https://github.com/mattburns963/mattburns963.githu
 Curious about retail sales and how to forecast them? This [presentation](https://github.com/mattburns963/mattburns963.github.io/blob/master/National%20Retail%20Sales.pdf) shows how to accomplish that in R Studio. The [R Studio code](https://github.com/mattburns963/mattburns963.github.io/blob/master/Retail%20Project.R) is avaible here if you're curious. 
 
 
+## State Taxation
+Do you pay a lot of taxes in your state? Check out this [markdown file](https://github.com/mattburns963/mattburns963.github.io/blob/master/Final_M_D%20Verbiage.docx)to see how to get that answer.
+California, Texas, New York and Florida are the outliers.
+
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
