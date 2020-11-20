@@ -30,7 +30,7 @@ With experience spanning multiple roles and industries, I am a well versed and a
 - Third-party data analysis and campaign integration.
 
 
-<i class="fa fa-camera-retro fa-2x"></i> fa-2x
+<i class="fa fa-camera-retro fa"></i> fa-2x
 
 
 <br/><br/>
