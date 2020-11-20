@@ -13,11 +13,11 @@ While solving business problems, I enjoy innovating and developing new ideas to 
 
 With experience spanning multiple roles and industries, I am a well versed and adaptable leader. I’ve enjoyed working across multiple industries including Financial Services, Energy and Mobile Telecoms. I’ve been successful in analytics, engineering, pricing, forecasting, channel ownership and collections.
 
-Planning and Analysis
-• Experience building regression and exponential smoothing models
-• Oversight of offer and segmentation optimization via Python decision trees.
-• Strategic planning, marketing, budgeting and KPI forecasting.
-• Pricing optimization scenarios with executive summaries for SVP approval.
+### Planning and Analysis
+- Experience building regression and exponential smoothing models
+- Oversight of offer and segmentation optimization via Python decision trees.
+- Strategic planning, marketing, budgeting and KPI forecasting.
+- Pricing optimization scenarios with executive summaries for SVP approval.
 
 Credit Card Knowledge
 • P&L ownership in Portfolio Marketing and Cardmember Acquisition.
