@@ -30,12 +30,12 @@ Results Oriented Leadership
 • Third-party data analysis and campaign integration.
 
 
+<br/><br/>
+<br/><br/>
+<br/><br/>
 
+### This repository contains both completed projects as well as the code behind the projects.
 
-# This repository contains both completed projects as well as the code behind the projects.
-<br/><br/>
-<br/><br/>
-<br/><br/>
 
 ## A Simple Project proposal
 This simple [project propoal](https://github.com/mattburns963/mattburns963.github.io/blob/master/Poster%2010AUG18.pdf) was created for my first class at Bellevue University. Please note it is only a proposal and not compled a project.
