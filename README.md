@@ -7,6 +7,31 @@
 
 ![image](https://user-images.githubusercontent.com/43834735/99123297-8419cb00-25c5-11eb-9d5c-5b459a8056e3.png)
 
+I am an analytic thought leader and problem solver with deep credit card knowledge and marketing experience.
+
+While solving business problems, I enjoy innovating and developing new ideas to reach multiple potential solutions. I Also enjoy building consensus and am a team player who enjoys leading cross function teams and workgroups.
+
+With experience spanning multiple roles and industries, I am a well versed and adaptable leader. I’ve enjoyed working across multiple industries including Financial Services, Energy and Mobile Telecoms. I’ve been successful in analytics, engineering, pricing, forecasting, channel ownership and collections.
+
+Planning and Analysis
+• Experience building regression and exponential smoothing models
+• Oversight of offer and segmentation optimization via Python decision trees.
+• Strategic planning, marketing, budgeting and KPI forecasting.
+• Pricing optimization scenarios with executive summaries for SVP approval.
+
+Credit Card Knowledge
+• P&L ownership in Portfolio Marketing and Cardmember Acquisition.
+• Subject matter expertise regarding Planning, Pricing, Portfolio Marketing, Acquisition and Collections.
+• Cross-functional team management (e.g. analytics, field, project, finance and campaign).
+
+Results Oriented Leadership
+• Pipeline development including population expansion, channel investment and offer optimization.
+• Root-cause identification and solution summarization for senior management.
+• Third-party data analysis and campaign integration.
+
+
+
+
 This repository contains both completed projects as well as the code behind the projects.
 <br/><br/>
 <br/><br/>
