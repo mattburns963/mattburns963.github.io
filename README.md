@@ -32,7 +32,7 @@ Results Oriented Leadership
 
 
 
-This repository contains both completed projects as well as the code behind the projects.
+# This repository contains both completed projects as well as the code behind the projects.
 <br/><br/>
 <br/><br/>
 <br/><br/>
