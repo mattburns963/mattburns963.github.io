@@ -19,24 +19,23 @@ With experience spanning multiple roles and industries, I am a well versed and a
 - Strategic planning, marketing, budgeting and KPI forecasting.
 - Pricing optimization scenarios with executive summaries for SVP approval.
 
-Credit Card Knowledge
-• P&L ownership in Portfolio Marketing and Cardmember Acquisition.
-• Subject matter expertise regarding Planning, Pricing, Portfolio Marketing, Acquisition and Collections.
-• Cross-functional team management (e.g. analytics, field, project, finance and campaign).
+### Credit Card Knowledge
+- P&L ownership in Portfolio Marketing and Cardmember Acquisition.
+- Subject matter expertise regarding Planning, Pricing, Portfolio Marketing, Acquisition and Collections.
+- Cross-functional team management (e.g. analytics, field, project, finance and campaign).
 
-Results Oriented Leadership
-• Pipeline development including population expansion, channel investment and offer optimization.
-• Root-cause identification and solution summarization for senior management.
-• Third-party data analysis and campaign integration.
+### Results Oriented Leadership
+- Pipeline development including population expansion, channel investment and offer optimization.
+- Root-cause identification and solution summarization for senior management.
+- Third-party data analysis and campaign integration.
 
 
 <br/><br/>
+
 <br/><br/>
+
+### This repository contains academic projects completed in pursuit of my MSDS from Bellevue University.
 <br/><br/>
-
-### This repository contains both completed projects as well as the code behind the projects.
-
-
 ## A Simple Project proposal
 This simple [project propoal](https://github.com/mattburns963/mattburns963.github.io/blob/master/Poster%2010AUG18.pdf) was created for my first class at Bellevue University. Please note it is only a proposal and not compled a project.
 
