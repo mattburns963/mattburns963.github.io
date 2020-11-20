@@ -2,7 +2,7 @@
 <br/><br/>
 ## Contact Info
 ### email: burns963@yahoo.com
-### [LinkedIn](https://www.linkedin.com/in/mattburns963)
+### LinkedIn: [www.linkedin.com/in/mattburns963](https://www.linkedin.com/in/mattburns963)
 
 
 ![image](https://user-images.githubusercontent.com/43834735/99123297-8419cb00-25c5-11eb-9d5c-5b459a8056e3.png)
