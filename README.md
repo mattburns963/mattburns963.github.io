@@ -30,6 +30,9 @@ With experience spanning multiple roles and industries, I am a well versed and a
 - Third-party data analysis and campaign integration.
 
 
+<i class="fa fa-camera-retro fa-2x"></i> fa-2x
+
+
 <br/><br/>
 <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 <li><a href="{{ site.baseurl }}/index.html"><i class='fa fa-home'></i> Home</a></li>
