@@ -15,7 +15,7 @@ While solving business problems, I enjoy innovating and developing new ideas to 
 With experience spanning multiple roles and industries, I am a well versed and adaptable leader. I’ve enjoyed working across multiple industries including Financial Services, Energy and Mobile Telecoms. I’ve been successful in analytics, engineering, pricing, forecasting, channel ownership and collections.
 
 <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-<li><a href="{{ site.baseurl }}/index.html"><i class='fa fa-home'></i> Home</a></li>
+
 <br/><br/>
 
 
