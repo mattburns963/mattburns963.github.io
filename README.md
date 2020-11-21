@@ -44,10 +44,10 @@ In 2Q20 the economy was shut down for all intents and purposes. This [report](ht
 
 <br/><br/>
 ### <i class="fa fa-flag fa-2x"></i> Congressional Reapportionment
-This country spends a lot of money on a census to properly apportion congressional seats and allocate the budget. How can this be done without actually counting every citizen? There’s a report and a presentation for your review. If you’d like to see how easy this is to do in RStudio, click [here](https://github.com/mattburns963/680/blob/master/Apportionment.R).
+This country spends a lot of money on a census to properly apportion congressional seats and allocate the budget. How can this be done without actually counting every citizen? There’s a [report](https://github.com/mattburns963/680/blob/master/Reapportionment%20Report%20P3%2020NOV20.pdf) and a [presentation](https://github.com/mattburns963/680/blob/master/Reapportionment.pdf) for your review. If you’d like to see how easy this is to do in RStudio, click [here](https://github.com/mattburns963/680/blob/master/Apportionment.R).
 
 <br/><br/>
-### <i class="fa fa-fire fa-3x"></i>Natural Gas vs Employment 530 <i class="fa fa-fire fa-5x"></i> 
+### <i class="fa fa-fire fa-2x"></i>Natural Gas vs Employment 530
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 <br/><br/>
