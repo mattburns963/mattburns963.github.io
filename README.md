@@ -16,7 +16,15 @@ With experience spanning multiple roles and industries, I am a well versed and a
 
 
 <br/><br/>
-
+a[href^="http://"]:after, a[href^="https://"]:after {
+    content: "\f08e";
+    font-family: FontAwesome;
+    font-weight: normal;
+    font-style: normal;
+    display: inline-block;
+    text-decoration: none;
+    padding-left: 3px;
+}
 
 ### This repository contains academic projects completed in pursuit of my MSDS from Bellevue University.
 <br/><br/>
