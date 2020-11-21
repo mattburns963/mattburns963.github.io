@@ -1,13 +1,13 @@
 # Welcome to the Project Respository for Matt Burns!
 <br/><br/>
 ### Contact Info
-### <i class="fa fa-envelope-o fa"></i> burns963@yahoo.com
-###  <i class="fa fa-linkedin-square fa"></i> [www.linkedin.com/in/mattburns963](https://www.linkedin.com/in/mattburns963)
+#### <i class="fa fa-envelope-o fa"></i> burns963@yahoo.com
+####  <i class="fa fa-linkedin-square fa"></i> [www.linkedin.com/in/mattburns963](https://www.linkedin.com/in/mattburns963)
 <br/><br/>
 
 ![image](https://user-images.githubusercontent.com/43834735/99123297-8419cb00-25c5-11eb-9d5c-5b459a8056e3.png)
 <br/><br/>
-## What makes me tick
+## What makes me tick?
 I am an analytic thought leader and problem solver with deep credit card knowledge and marketing experience.
 
 While solving business problems, I enjoy innovating and developing new ideas to reach multiple potential solutions. I Also enjoy building consensus and am a team player who enjoys leading cross function teams and workgroups.
