@@ -62,7 +62,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 <br/><br/>
-### <i class="fa fa-plane fa-2x"></i>Airline Visualizations 640
+### <i class="fa fa-plane fa-2x"></i>Two Airline Visualizations
 I made two visualizations on the same topic. [This one](https://github.com/mattburns963/mattburns963.github.io/blob/master/Airline%20Safety%202.0.pdf) is packed with figures and graphs, while [this one](https://github.com/mattburns963/mattburns963.github.io/blob/master/Airline%20Safety%20Infographic.pdf) is for our non-math friends.
 
 
