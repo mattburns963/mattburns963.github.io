@@ -40,7 +40,7 @@ The project included EDA of the data relating to natural gas prices and unemploy
 
 <br/><br/>
 ### <i class="fa fa-money fa-2x"></i> State Taxation
-Do you pay a lot of taxes in your state? Check out this [markdown file](https://github.com/mattburns963/mattburns963.github.io/blob/master/Final_M_D%20Verbiage.docx)to see how to get that answer. 
+Do you pay a lot of taxes in your state? Check out this [markdown file](https://github.com/mattburns963/mattburns963.github.io/blob/master/Final%20M%20D.Rmd) Here's a [PDF](https://github.com/mattburns963/mattburns963.github.io/blob/master/State%20Taxes.pdf) if that's easier.
 
 *Spoiler alert:* California, Texas, New York and Florida are the outliers.
 
