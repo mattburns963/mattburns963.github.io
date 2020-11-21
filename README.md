@@ -58,8 +58,10 @@ In my first programming class I manipulated data and create a simple markdown fi
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 <br/><br/>
-### <i class="fa fa-money fa-3x"></i> Candy Project 550
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+### <i class="fa fa-candy fa-3x"></i> Candy Project
+For this project I wanted to analyze something less serious than I’ve analyzed in other courses in this program. I chose 538’s candy data that details the ingredients of candy and how often it won in a head to head challenge. It is not a huge dataset as it only analyzes 85 candies and 13 attributes, but I still ran a [confusion matrix](https://github.com/mattburns963/mattburns963.github.io/blob/master/Candy.pdf) and use the ingredients to forecast weather or not a candy is a winner in 538 candy challenge. 
+The end goal of this project is to identify which features would make a successful candy. For this analysis I defined a winner as a candy that won at least 60% of the time.
+
 
 <br/><br/>
 ### <i class="fa fa-plane fa-2x"></i>Two Airline Visualizations
