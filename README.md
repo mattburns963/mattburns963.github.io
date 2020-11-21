@@ -36,14 +36,14 @@ Do you pay a lot of taxes in your state? Check out this [markdown file](https://
 
 <br/><br/>
 ### <i class="fa fa-beer fa-2x"></i> Stock Price Volatility
-Tired of pretending to understand your friend babble about their latest option investment? So was I! Before one can start learning about “the Greeks” of options pricing, they need to understand volatility. These files will show how to pull stock prices at 30 minutes variables and how they vary over time.  The code for pulling the data is [here](https://github.com/mattburns963/680/blob/master/StockPull.py) and the cluster analysis is right [here](https://github.com/mattburns963/680/blob/master/kmeans.R). Wanna cut to the chase? Here’s the [report](https://github.com/mattburns963/680/blob/master/Stock%20Volatility%20White%20Paper%2027SEP20.docx) and here’s the [presentation](https://github.com/mattburns963/680/blob/master/Stock%20Volatility%20Presentation.pdf).
+Tired of pretending to understand your friend when they babble about their latest option investment? So was I! Before one can start learning about “the Greeks” of options pricing, they need to understand volatility. These files will show how to pull stock prices at 30 minutes variables and how they vary over time.  The code for pulling the data is [here](https://github.com/mattburns963/680/blob/master/StockPull.py) and the cluster analysis is right [here](https://github.com/mattburns963/680/blob/master/kmeans.R). Wanna cut to the chase? Here’s the [report](https://github.com/mattburns963/680/blob/master/Stock%20Volatility%20White%20Paper%2027SEP20.docx) and here’s the [presentation](https://github.com/mattburns963/680/blob/master/Stock%20Volatility%20Presentation.pdf).
 
 <br/><br/>
 ### <i class="fa fa-car fa-2x"></i> Lost Auto Sales
 In 2Q20 the economy was shut down for all intents and purposes. This [report](https://github.com/mattburns963/680/blob/master/Auto%20white%20paper%2027OCT20.pdf) and [presentation](https://github.com/mattburns963/680/blob/master/Auto%20presentation.pdf) quantify how many auto sales were lost during this period. This [code](https://github.com/mattburns963/680/blob/master/AutoSales.R) for RStudio shows how it can be done.
 
 <br/><br/>
-### <i class="fa fa-beer fa-3x"></i> Congressional Reapportionment
+### <i class="fa fa-democrat fa-2x"></i> Congressional Reapportionment <i class="fa fa-republican fa-2x"></i>
 This country spends a lot of money on a census to properly apportion congressional seats and allocate the budget. How can this be done without actually counting every citizen? There’s a report and a presentation for your review. If you’d like to see how easy this is to do in RStudio, click [here](https://github.com/mattburns963/680/blob/master/Apportionment.R).
 
 <br/><br/>
