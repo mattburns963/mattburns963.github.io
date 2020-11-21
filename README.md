@@ -43,7 +43,7 @@ Tired of pretending to understand your friend when they babble about their lates
 In 2Q20 the economy was shut down for all intents and purposes. This [report](https://github.com/mattburns963/680/blob/master/Auto%20white%20paper%2027OCT20.pdf) and [presentation](https://github.com/mattburns963/680/blob/master/Auto%20presentation.pdf) quantify how many auto sales were lost during this period. This [code](https://github.com/mattburns963/680/blob/master/AutoSales.R) for RStudio shows how it can be done.
 
 <br/><br/>
-### <i class="fa fa-democrat fa-2x"></i> Congressional Reapportionment <i class="fa fa-republican fa-2x"></i>
+### <i class="fa fa-flag fa-2x"></i> Congressional Reapportionment
 This country spends a lot of money on a census to properly apportion congressional seats and allocate the budget. How can this be done without actually counting every citizen? There’s a report and a presentation for your review. If you’d like to see how easy this is to do in RStudio, click [here](https://github.com/mattburns963/680/blob/master/Apportionment.R).
 
 <br/><br/>
