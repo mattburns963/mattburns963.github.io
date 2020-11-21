@@ -50,6 +50,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br/><br/>
 ### <i class="fa fa-beer fa-2x"></i>  One has to start somewhere
 I created this simple [project propoal](https://github.com/mattburns963/mattburns963.github.io/blob/master/Poster%2010AUG18.pdf) for my first class at Bellevue University. Please note it is only a proposal and not compled a project.
+
 In my first programming class i manipulated data and create a simple markdown file. Click [here](https://github.com/mattburns963/msds510/blob/master/beer.pdf) if you want to know which country drinks the most beer per capita.
 
 
