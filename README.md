@@ -37,6 +37,12 @@ a[href^="http://"]:after, a[href^="https://"]:after {
 }
 
 
+.gi-2x{font-size: 2em;}
+.gi-3x{font-size: 3em;}
+.gi-4x{font-size: 4em;}
+.gi-5x{font-size: 5em;}
+
+
 <i class="fa fa-camera-retro"></i> normal size (1x)
 <i class="fa fa-camera-retro fa-lg"></i> fa-lg
 <i class="fa fa-camera-retro fa-2x"></i> fa-2x
