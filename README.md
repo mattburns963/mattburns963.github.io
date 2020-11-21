@@ -1,4 +1,4 @@
-# Welcome to the Project Respository for Matt Burns!
+# Welcome to the Respository for Matt Burns!
 <br/><br/>
 ### Contact Info
 #### <i class="fa fa-envelope-o fa"></i> burns963@yahoo.com
