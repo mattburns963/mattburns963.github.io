@@ -7,7 +7,7 @@
 
 ![image](https://user-images.githubusercontent.com/43834735/99123297-8419cb00-25c5-11eb-9d5c-5b459a8056e3.png)
 <br/><br/>
-### What makes me tick
+## What makes me tick
 I am an analytic thought leader and problem solver with deep credit card knowledge and marketing experience.
 
 While solving business problems, I enjoy innovating and developing new ideas to reach multiple potential solutions. I Also enjoy building consensus and am a team player who enjoys leading cross function teams and workgroups.
@@ -19,17 +19,17 @@ With experience spanning multiple roles and industries, I am a well versed and a
 <br/><br/>
 
 
-### This repository contains academic projects completed in pursuit of my MSDS from Bellevue University.
+## This repository contains academic projects completed in pursuit of my MSDS from Bellevue University.
 <br/><br/>
-## <i class="fa fa-beer fa-3x"></i> A Simple Project proposal
+### <i class="fa fa-beer fa-3x"></i> A Simple Project proposal
 This simple [project propoal](https://github.com/mattburns963/mattburns963.github.io/blob/master/Poster%2010AUG18.pdf) was created for my first class at Bellevue University. Please note it is only a proposal and not compled a project.
 
 <br/><br/>
-## <i class="fa fa-beer fa-3x"></i> Retail Sales Forecast in R
+### <i class="fa fa-beer fa-3x"></i> Retail Sales Forecast in R
 Curious about retail sales and how to forecast them? This [presentation](https://github.com/mattburns963/mattburns963.github.io/blob/master/National%20Retail%20Sales.pdf) shows how to accomplish that in R Studio. The [R Studio code](https://github.com/mattburns963/mattburns963.github.io/blob/master/Retail%20Project.R) is avaible here if you're curious. 
 
 <br/><br/>
-## <i class="fa fa-beer fa-3x"></i> State Taxation
+### <i class="fa fa-beer fa-3x"></i> State Taxation
 Do you pay a lot of taxes in your state? Check out this [markdown file](https://github.com/mattburns963/mattburns963.github.io/blob/master/Final_M_D%20Verbiage.docx)to see how to get that answer. 
 
 Spoiler alert: California, Texas, New York and Florida are the outliers.
