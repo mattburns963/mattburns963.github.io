@@ -45,7 +45,7 @@ This country spends a lot of money on a census to properly apportion congression
 
 <br/><br/>
 ### <i class="fa fa-fire fa-2x"></i>Natural Gas vs Employment
-The project included EDA of the data relating to natural gas prices and unemployment in th emining sector. If one is curious about the impact of the lower gnatual gfas prices has on employment they can view this [presentation](https://github.com/mattburns963/530/blob/master/Gas%20Prices%20vs%20Unemployment.pdf) and use this [Juyyter Notebook](https://github.com/mattburns963/530/blob/master/Burns%20530%20Final%20Project.ipynb) to get started.
+The project included EDA of the data relating to natural gas prices and unemployment in th emining sector. If one is curious about the impact of the lower gnatual gfas prices has on employment they can view this [presentation](https://github.com/mattburns963/530/blob/master/Gas%20Prices%20vs%20Unemployment.pdf) and use this [Jupyter Notebook](https://github.com/mattburns963/530/blob/master/Burns%20530%20Final%20Project.ipynb) to get started.
 
 <br/><br/>
 ### <i class="fa fa-beer fa-2x"></i>  One has to start somewhere
