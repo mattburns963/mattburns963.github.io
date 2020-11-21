@@ -39,7 +39,7 @@ Do you pay a lot of taxes in your state? Check out this [markdown file](https://
 Tired of pretending to understand your friend babble about their latest option investment? So was I! Before one can start learning about “the Greeks” of options pricing, they need to understand volatility. These files will show how to pull stock prices at 30 minutes variables and how they vary over time.  The code for pulling the data is [here](https://github.com/mattburns963/680/blob/master/StockPull.py) and the cluster analysis is right [here](https://github.com/mattburns963/680/blob/master/kmeans.R). Wanna cut to the chase? Here’s the [report](https://github.com/mattburns963/680/blob/master/Stock%20Volatility%20White%20Paper%2027SEP20.docx) and here’s the [presentation](https://github.com/mattburns963/680/blob/master/Stock%20Volatility%20Presentation.pdf).
 
 <br/><br/>
-### <i class="fa fa-beer fa-3x"></i> Lost Auto Sales
+### <i class="fa fa-car fa-2x"></i> Lost Auto Sales
 In 2Q20 the economy was shut down for all intents and purposes. This [report](https://github.com/mattburns963/680/blob/master/Auto%20white%20paper%2027OCT20.pdf) and [presentation](https://github.com/mattburns963/680/blob/master/Auto%20presentation.pdf) quantify how many auto sales were lost during this period. This [code](https://github.com/mattburns963/680/blob/master/AutoSales.R) for RStudio shows how it can be done.
 
 <br/><br/>
