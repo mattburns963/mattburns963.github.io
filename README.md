@@ -1,27 +1,13 @@
 # Welcome to the Project Respository for Matt Burns!
 <br/><br/>
-## Contact Info
+### Contact Info
 ### <i class="fa fa-envelope-o fa"></i> burns963@yahoo.com
 ###  <i class="fa fa-linkedin-square fa"></i> [www.linkedin.com/in/mattburns963](https://www.linkedin.com/in/mattburns963)
-
-<i class="fa fa-linkedin-square fa"></i>
-
-<i class="linkedin-square"></i>
-
-<i class="fa fa-linkedin-square fa">
-
-<i class="fa fa-camera-retro fa"></i>
-
-<i class="fa fa-camera-retro fa-5x"></i>
-
-<i class="fa fa-camera-retro fa-5x">
-
-
-
-
+<br/><br/>
 
 ![image](https://user-images.githubusercontent.com/43834735/99123297-8419cb00-25c5-11eb-9d5c-5b459a8056e3.png)
 
+### What makes me tick
 I am an analytic thought leader and problem solver with deep credit card knowledge and marketing experience.
 
 While solving business problems, I enjoy innovating and developing new ideas to reach multiple potential solutions. I Also enjoy building consensus and am a team player who enjoys leading cross function teams and workgroups.
@@ -29,15 +15,8 @@ While solving business problems, I enjoy innovating and developing new ideas to 
 With experience spanning multiple roles and industries, I am a well versed and adaptable leader. I’ve enjoyed working across multiple industries including Financial Services, Energy and Mobile Telecoms. I’ve been successful in analytics, engineering, pricing, forecasting, channel ownership and collections.
 
 
-<i class="fa fa-camera-retro fa"></i> fa-2x
+<br/><br/>
 
-
-<br/><br/>
-<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-<li><a href="{{ site.baseurl }}/index.html"><i class='fa fa-home'></i> Home</a></li>
-<br/><br/>
-<i class="fa fa-camera-retro fa-2x"></i> fa-2x outside Text tsets
-<br/><br/>
 
 ### This repository contains academic projects completed in pursuit of my MSDS from Bellevue University.
 <br/><br/>
