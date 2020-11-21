@@ -35,7 +35,7 @@ Do you pay a lot of taxes in your state? Check out this [markdown file](https://
 *Spoiler alert:* California, Texas, New York and Florida are the outliers.
 
 <br/><br/>
-## <i class="fa fa-beer fa-3x"></i> Stock Price Volatility
+## <i class="fa fa-beer fa-2x"></i> Stock Price Volatility
 Tired of pretending to understand your friend babble about their latest option investment? So was I! Before one can start learning about “the Greeks” of options pricing, they need to understand volatility. These files will show how to pull stock prices at 30 minutes variables and how they vary over time.  The code for pulling the data is [here](https://github.com/mattburns963/680/blob/master/StockPull.py) and the cluster analysis is right [here](https://github.com/mattburns963/680/blob/master/kmeans.R). Wanna cut to the chase? Here’s the [report](https://github.com/mattburns963/680/blob/master/Stock%20Volatility%20White%20Paper%2027SEP20.docx) and here’s the [presentation](https://github.com/mattburns963/680/blob/master/Stock%20Volatility%20Presentation.pdf).
 
 <br/><br/>
