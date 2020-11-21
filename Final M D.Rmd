@@ -1,0 +1,114 @@
+---
+title: "Final MD"
+author: "Matt Burns"
+date: "February 27, 2019"
+output: word_document
+---
+
+# Load libraries & data
+
+```{r error=FALSE}
+library(readxl)
+library(ggplot2)
+
+tax <- read_excel("C:/Users/burns/OneDrive/Desktop/Matt/Grad School/DSC 520/Final Project/tax.xlsx")
+names(tax)[1]<-"State"
+names(tax)[33]<-"pop"
+tax <- tax[-c(9,52), ] 
+str(tax)
+
+
+infra <- read_excel("C:/Users/burns/OneDrive/Desktop/Matt/Grad School/DSC 520/Final Project/Infrastructure.xlsx")
+infra$A <- NULL
+infra$B <- NULL
+infra$C <- NULL
+colnames(infra) <- c("State","BadRoads","SpendPerDriver")
+infra[order(infra$State),]
+str(infra)
+
+
+Edu <- read_excel("C:/Users/burns/OneDrive/Desktop/Matt/Grad School/DSC 520/Final Project/Education.xlsx")
+Edu <- Edu[-c(9,40,46), ] 
+colnames(Edu) <- c("State","HSRate","HSRank","BachRate","BachRank","AdvRate","AdvRank")
+str(Edu)
+
+
+IMR <- read_excel("C:/Users/burns/OneDrive/Desktop/Matt/Grad School/DSC 520/Final Project/INFANT_MORTALITY_RATES2017.xlsx")
+IMR$URL<- NULL
+str(IMR)
+```
+
+
+# Check that all dataframes have the states in the same order 
+
+```{r error=FALSE}
+states <- data.frame(t=tax$State,i=infra$State,e=Edu$State,h=IMR$STATE)
+print(states)
+```
+
+# Prep labels
+```{r error=FALSE}
+tax$StLab <- " "
+tax [5,34] <- "CA"
+tax [32,34] <- "NY"
+tax [43,34] <- "TX"
+tax [9,34] <- "FL"
+tax [13,34] <- "IL"
+tax [49,34] <- "WI"
+```  
+
+# Plot taxes & residuals for Total Taxes
+```{r error=FALSE}
+ggplot(tax,aes(x=pop, y=`Total Taxes`)) + geom_point(shape=8, color="brown") +stat_smooth(method = "lm", col = "red") +
+  geom_text(aes(label=StLab),hjust=0, vjust=0)
+
+basic <- lm(tax$`Total Taxes` ~ tax$pop,tax)
+TaxResiduals <-data.frame(states=states$h,res=basic$residuals,pop=tax$pop)
+TaxResiduals$perCap <- TaxResiduals$res/TaxResiduals$pop
+TaxResiduals$Flag <- 0
+TaxResiduals [13,5] <- 2
+TaxResiduals [49,5] <- 2
+TaxResiduals$states <- factor(TaxResiduals$states, levels = TaxResiduals$states[order(TaxResiduals$perCap)])
+ggplot(TaxResiduals, aes(x = TaxResiduals$states, y = TaxResiduals$perCap, fill = TaxResiduals$Flag)) + theme_bw() + geom_bar(stat = "identity")
+```
+
+
+# Plot taxes & residuals for Total Taxes
+```{r error=FALSE}
+ggplot(tax,aes(x=pop, y=`Individual Income Taxes`)) + geom_point(shape=8, color="brown") +stat_smooth(method = "lm", col = "red") +
+  geom_text(aes(label=StLab),hjust=0, vjust=0)
+
+IIT <- lm(tax$`Individual Income Taxes` ~ tax$pop,tax)
+IITaxResiduals <-data.frame(states=states$h,res=IIT$residuals,pop=tax$pop)
+IITaxResiduals$perCap <- IITaxResiduals$res/IITaxResiduals$pop
+IITaxResiduals$Flag <- 0
+IITaxResiduals [13,5] <- 2
+IITaxResiduals [49,5] <- 2
+IITaxResiduals$states <- factor(IITaxResiduals$states, levels = IITaxResiduals$states[order(IITaxResiduals$perCap)])
+ggplot(IITaxResiduals, aes(x = IITaxResiduals$states, y = IITaxResiduals$perCap, fill = IITaxResiduals$Flag)) + theme_bw() + geom_bar(stat = "identity")
+```
+
+
+# Check Education Impacts
+```{r error=FALSE}
+Edu$pop <- tax$pop
+Edu$tax <- tax$'Total Taxes'
+Education <- lm(BachRate ~ tax + pop,Edu)
+summary(Education)
+```
+
+# Check Health Impacts
+```{r error=FALSE}
+IMR$pop <- tax$pop
+IMR$tax <- tax$'Total Taxes'
+Health <- lm(DEATHS ~ tax + pop,IMR)
+summary(Health)
+```
+
+# Check Infrastructure Impacts
+```{r error=FALSE}
+infra$pop <- tax$pop
+infra$tax <- tax$'Total Taxes'
+Infrastructure <- lm(BadRoads ~ tax + SpendPerDriver + pop, infra)
+summary(Infrastructure)
+```
