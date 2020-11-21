@@ -2,8 +2,7 @@
 <br/><br/>
 ## Contact Info
 ### email: burns963@yahoo.com
-### LinkedIn: [www.linkedin.com/in/mattburns963](https://www.linkedin.com/in/mattburns963)
-linkedin-square
+###  <i class="fa fa-linkedin-square fa-3x"></i> LinkedIn: [www.linkedin.com/in/mattburns963](https://www.linkedin.com/in/mattburns963)
 
 <i class="fa fa-linkedin-square fa"></i>
 
@@ -28,22 +27,6 @@ I am an analytic thought leader and problem solver with deep credit card knowled
 While solving business problems, I enjoy innovating and developing new ideas to reach multiple potential solutions. I Also enjoy building consensus and am a team player who enjoys leading cross function teams and workgroups.
 
 With experience spanning multiple roles and industries, I am a well versed and adaptable leader. I’ve enjoyed working across multiple industries including Financial Services, Energy and Mobile Telecoms. I’ve been successful in analytics, engineering, pricing, forecasting, channel ownership and collections.
-
-### Planning and Analysis
-- Experience building regression and exponential smoothing models
-- Oversight of offer and segmentation optimization via Python decision trees.
-- Strategic planning, marketing, budgeting and KPI forecasting.
-- Pricing optimization scenarios with executive summaries for SVP approval.
-
-### Credit Card Knowledge
-- P&L ownership in Portfolio Marketing and Cardmember Acquisition.
-- Subject matter expertise regarding Planning, Pricing, Portfolio Marketing, Acquisition and Collections.
-- Cross-functional team management (e.g. analytics, field, project, finance and campaign).
-
-### Results Oriented Leadership
-- Pipeline development including population expansion, channel investment and offer optimization.
-- Root-cause identification and solution summarization for senior management.
-- Third-party data analysis and campaign integration.
 
 
 <i class="fa fa-camera-retro fa"></i> fa-2x
