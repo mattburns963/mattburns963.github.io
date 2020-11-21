@@ -26,6 +26,7 @@ With experience spanning multiple roles and industries, I am a well versed and a
 
 
 /* this part adds an icon after external links, using FontAwesome*/
+
 a[href^="http://"]:after, a[href^="https://"]:after {
     content: "\f08e";
     font-family: FontAwesome;
@@ -34,13 +35,8 @@ a[href^="http://"]:after, a[href^="https://"]:after {
     display: inline-block;
     text-decoration: none;
     padding-left: 3px;
-}
+    }
 
-
-.gi-2x{font-size: 2em;}
-.gi-3x{font-size: 3em;}
-.gi-4x{font-size: 4em;}
-.gi-5x{font-size: 5em;}
 
 
 <i class="fa fa-camera-retro"></i> normal size (1x)
