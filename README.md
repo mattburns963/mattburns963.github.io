@@ -15,7 +15,9 @@ While solving business problems, I enjoy innovating and developing new ideas to 
 With experience spanning multiple roles and industries, I am a well versed and adaptable leader. I’ve enjoyed working across multiple industries including Financial Services, Energy and Mobile Telecoms. I’ve been successful in analytics, engineering, pricing, forecasting, channel ownership and collections.
 
 
-<br/><br/><i class="fa fa-camera-retro"></i> normal size (1x)
+<br/><br/>
+
+<i class="fa fa-camera-retro"></i> normal size (1x)
 <i class="fa fa-camera-retro fa-lg"></i> fa-lg
 <i class="fa fa-camera-retro fa-2x"></i> fa-2x
 <i class="fa fa-camera-retro fa-3x"></i> fa-3x
@@ -33,7 +35,14 @@ a[href^="http://"]:after, a[href^="https://"]:after {
     text-decoration: none;
     padding-left: 3px;
 }
-See F
+
+
+<i class="fa fa-camera-retro"></i> normal size (1x)
+<i class="fa fa-camera-retro fa-lg"></i> fa-lg
+<i class="fa fa-camera-retro fa-2x"></i> fa-2x
+<i class="fa fa-camera-retro fa-3x"></i> fa-3x
+<i class="fa fa-camera-retro fa-4x"></i> fa-4x
+<i class="fa fa-camera-retro fa-5x"></i> fa-5
 
 ### This repository contains academic projects completed in pursuit of my MSDS from Bellevue University.
 <br/><br/>
