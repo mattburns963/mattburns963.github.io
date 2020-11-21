@@ -20,12 +20,9 @@ With experience spanning multiple roles and industries, I am a well versed and a
 
 
 ## This repository contains academic projects completed in pursuit of my MSDS from Bellevue University.
-<br/><br/>
-### <i class="fa fa-beer fa-3x"></i> A Simple Project proposal
-
 
 <br/><br/>
-### <i class="fa fa-beer fa-3x"></i> Retail Sales Forecast in R
+### <i class="fa fa-shopping-cart fa-3x"></i> Retail Sales Forecast in R
 Curious about retail sales and how to forecast them? This [presentation](https://github.com/mattburns963/mattburns963.github.io/blob/master/National%20Retail%20Sales.pdf) shows how to accomplish that in R Studio. The [R Studio code](https://github.com/mattburns963/mattburns963.github.io/blob/master/Retail%20Project.R) is avaible here if you're curious. 
 
 <br/><br/>
