@@ -1,12 +1,10 @@
 # Welcome to the Respository for Matt Burns!
-<br/><br/>
+![image](https://user-images.githubusercontent.com/43834735/99123297-8419cb00-25c5-11eb-9d5c-5b459a8056e3.png)
 ### Contact Info
 #### <i class="fa fa-envelope-o fa"></i> burns963@yahoo.com
 ####  <i class="fa fa-linkedin-square fa"></i> [www.linkedin.com/in/mattburns963](https://www.linkedin.com/in/mattburns963)
 <br/><br/>
 
-![image](https://user-images.githubusercontent.com/43834735/99123297-8419cb00-25c5-11eb-9d5c-5b459a8056e3.png)
-<br/><br/>
 ## What makes me tick?
 I am an analytic thought leader and problem solver with deep credit card knowledge and marketing experience.
 
