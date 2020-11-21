@@ -32,11 +32,11 @@ Curious about retail sales and how to forecast them? This [presentation](https:/
 ### <i class="fa fa-beer fa-3x"></i> State Taxation
 Do you pay a lot of taxes in your state? Check out this [markdown file](https://github.com/mattburns963/mattburns963.github.io/blob/master/Final_M_D%20Verbiage.docx)to see how to get that answer. 
 
-Spoiler alert: California, Texas, New York and Florida are the outliers.
+*Spoiler alert:* California, Texas, New York and Florida are the outliers.
 
 <br/><br/>
 ## <i class="fa fa-beer fa-3x"></i> Stock Price Volatility
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Tired of pretending to understand your friend babble about their latest option investment? So was I! Before one can start learning about “the Greeks” of options pricing, they need to understand volatility. These files will show how to pull stock prices at 30 minutes variables and how they vary over time.  The code for pulling the data is [here](https://github.com/mattburns963/680/blob/master/StockPull.py) and the cluster analysis is right [here](https://github.com/mattburns963/680/blob/master/kmeans.R). Wanna cut to the chase? Here’s the [report](https://github.com/mattburns963/680/blob/master/Stock%20Volatility%20White%20Paper%2027SEP20.docx) and here’s the [presentation](https://github.com/mattburns963/680/blob/master/Stock%20Volatility%20Presentation.pdf).
 
 <br/><br/>
 ## <i class="fa fa-beer fa-3x"></i> Lost Auto Sales
