@@ -23,6 +23,7 @@ With experience spanning multiple roles and industries, I am a well versed and a
 <i class="fa fa-camera-retro fa-5x"></i> fa-5x
 
 
+/* this part adds an icon after external links, using FontAwesome*/
 a[href^="http://"]:after, a[href^="https://"]:after {
     content: "\f08e";
     font-family: FontAwesome;
@@ -32,6 +33,7 @@ a[href^="http://"]:after, a[href^="https://"]:after {
     text-decoration: none;
     padding-left: 3px;
 }
+See F
 
 ### This repository contains academic projects completed in pursuit of my MSDS from Bellevue University.
 <br/><br/>
