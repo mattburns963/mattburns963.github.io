@@ -22,7 +22,7 @@ With experience spanning multiple roles and industries, I am a well versed and a
 ## This repository contains academic projects completed in pursuit of my MSDS from Bellevue University.
 <br/><br/>
 ### <i class="fa fa-beer fa-3x"></i> A Simple Project proposal
-This simple [project propoal](https://github.com/mattburns963/mattburns963.github.io/blob/master/Poster%2010AUG18.pdf) was created for my first class at Bellevue University. Please note it is only a proposal and not compled a project.
+
 
 <br/><br/>
 ### <i class="fa fa-beer fa-3x"></i> Retail Sales Forecast in R
@@ -51,8 +51,10 @@ This country spends a lot of money on a census to properly apportion congression
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 <br/><br/>
-### <i class="fa fa-beer fa-3x"></i>  3 Per Capita Beer Consumption
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+### <i class="fa fa-beer fa-2x"></i>  One has to start somewhere
+I created this simple [project propoal](https://github.com/mattburns963/mattburns963.github.io/blob/master/Poster%2010AUG18.pdf) for my first class at Bellevue University. Please note it is only a proposal and not compled a project.
+In my first programming class i manipulated data and create a simple markdown file. Click [here](https://github.com/mattburns963/msds510/blob/master/beer.pdf) if you want to know which country drinks the most beer per capita.
+
 
 <br/><br/>
 ### <i class="fa fa-line-chart fa-3x"></i> Pulling Stock Prices via an API 540
