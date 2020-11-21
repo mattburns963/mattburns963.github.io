@@ -53,7 +53,6 @@ I created this simple [project propoal](https://github.com/mattburns963/mattburn
 
 In my first programming class I manipulated data and create a simple markdown file. Click [here](https://github.com/mattburns963/msds510/blob/master/beer.pdf) if you want to know which country drinks the most beer per capita.
 
-
 <br/><br/>
 ### <i class="fa fa-line-chart fa-3x"></i> Pulling Stock Prices via an API 540
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
@@ -63,8 +62,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 <br/><br/>
-### <i class="fa fa-plane fa-3x"></i>Airline Visualizations 640
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+### <i class="fa fa-plane fa-2x"></i>Airline Visualizations 640
+I made two visualizations on the same topic. [This one](https://github.com/mattburns963/mattburns963.github.io/blob/master/Airline%20Safety%202.0.pdf) is packed with figures and graphs, while [this one](https://github.com/mattburns963/mattburns963.github.io/blob/master/Airline%20Safety%20Infographic.pdf) is for our non-math friends.
 
 
 <br/><br/>
