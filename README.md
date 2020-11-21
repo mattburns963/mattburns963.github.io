@@ -83,8 +83,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ## Congressional Reapportionment
 This country spends a lot of money on a census to properly apportion congressional seats and allocate the budget. How can this be done without actually counting every citizen? There’s a report and a presentation for your review. If you’d like to see how easy this is to do in RStudio, click [here](https://github.com/mattburns963/680/blob/master/Apportionment.R).
 
-
 <i class="fa fa-fire fa-5x"></i> ## Natural Gas vs Employment 530
+<i class="fa fa-fire fa-5x"></i> ## Natural Gas vs Employment 530
+## Natural Gas vs Employment 530 <i class="fa fa-fire fa-5x"></i> 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 <i class="fa fa-beer fa-5x"></i>
