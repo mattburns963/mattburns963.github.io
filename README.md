@@ -22,18 +22,9 @@ With experience spanning multiple roles and industries, I am a well versed and a
 ## This repository contains academic projects completed in pursuit of my MSDS from Bellevue University.
 
 <br/><br/>
-### <i class="fa fa-shopping-cart fa-3x"></i> Retail Sales Forecast in R
+### <i class="fa fa-shopping-cart fa-2x"></i> Retail Sales Forecast in R
 Curious about retail sales and how to forecast them? This [presentation](https://github.com/mattburns963/mattburns963.github.io/blob/master/National%20Retail%20Sales.pdf) shows how to accomplish that in R Studio. The [R Studio code](https://github.com/mattburns963/mattburns963.github.io/blob/master/Retail%20Project.R) is avaible here if you're curious. 
 
-<br/><br/>
-### <i class="fa fa-beer fa-3x"></i> State Taxation
-Do you pay a lot of taxes in your state? Check out this [markdown file](https://github.com/mattburns963/mattburns963.github.io/blob/master/Final_M_D%20Verbiage.docx)to see how to get that answer. 
-
-*Spoiler alert:* California, Texas, New York and Florida are the outliers.
-
-<br/><br/>
-### <i class="fa fa-beer fa-2x"></i> Stock Price Volatility
-Tired of pretending to understand your friend when they babble about their latest option investment? So was I! Before one can start learning about “the Greeks” of options pricing, they need to understand volatility. These files will show how to pull stock prices at 30 minutes variables and how they vary over time.  The code for pulling the data is [here](https://github.com/mattburns963/680/blob/master/StockPull.py) and the cluster analysis is right [here](https://github.com/mattburns963/680/blob/master/kmeans.R). Wanna cut to the chase? Here’s the [report](https://github.com/mattburns963/680/blob/master/Stock%20Volatility%20White%20Paper%2027SEP20.docx) and here’s the [presentation](https://github.com/mattburns963/680/blob/master/Stock%20Volatility%20Presentation.pdf).
 
 <br/><br/>
 ### <i class="fa fa-car fa-2x"></i> Lost Auto Sales
@@ -48,22 +39,31 @@ This country spends a lot of money on a census to properly apportion congression
 The project included EDA of the data relating to natural gas prices and unemployment in th emining sector. If one is curious about the impact of the lower gnatual gfas prices has on employment they can view this [presentation](https://github.com/mattburns963/530/blob/master/Gas%20Prices%20vs%20Unemployment.pdf) and use this [Jupyter Notebook](https://github.com/mattburns963/530/blob/master/Burns%20530%20Final%20Project.ipynb) to get started.
 
 <br/><br/>
+### <i class="fa fa-money fa-2x"></i> State Taxation
+Do you pay a lot of taxes in your state? Check out this [markdown file](https://github.com/mattburns963/mattburns963.github.io/blob/master/Final_M_D%20Verbiage.docx)to see how to get that answer. 
+
+*Spoiler alert:* California, Texas, New York and Florida are the outliers.
+
+<br/><br/>
+### <i class="fa fa-bar-chart fa-2x"></i> Stock Price Volatility
+Tired of pretending to understand your friend when they babble about their latest option investment? So was I! Before one can start learning about “the Greeks” of options pricing, they need to understand volatility. These files will show how to pull stock prices at 30 minutes variables and how they vary over time.  The code for pulling the data is [here](https://github.com/mattburns963/680/blob/master/StockPull.py) and the cluster analysis is right [here](https://github.com/mattburns963/680/blob/master/kmeans.R). Wanna cut to the chase? Here’s the [report](https://github.com/mattburns963/680/blob/master/Stock%20Volatility%20White%20Paper%2027SEP20.docx) and here’s the [presentation](https://github.com/mattburns963/680/blob/master/Stock%20Volatility%20Presentation.pdf).
+
+<br/><br/>
+### <i class="fa fa-plane fa-2x"></i>Two Airline Visualizations
+I made two visualizations on the same topic, airline saftey. [This one](https://github.com/mattburns963/mattburns963.github.io/blob/master/Airline%20Safety%202.0.pdf) is packed with figures and graphs, while [this one](https://github.com/mattburns963/mattburns963.github.io/blob/master/Airline%20Safety%20Infographic.pdf) is for our non-math friends.
+
+<br/><br/>
 ### <i class="fa fa-beer fa-2x"></i>  One has to start somewhere
 I created this simple [project propoal](https://github.com/mattburns963/mattburns963.github.io/blob/master/Poster%2010AUG18.pdf) for my first class at Bellevue University. Please note it is only a proposal and not compled a project.
 
 In my first programming class I manipulated data and create a simple markdown file. Click [here](https://github.com/mattburns963/msds510/blob/master/beer.pdf) if you want to know which country drinks the most beer per capita.
-
 <br/><br/>
-### <i class="fa fa-line-chart fa-3x"></i> Pulling Stock Prices via an API 540
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+### <i class="fa fa-line-chart fa-2x"></i> Pulling Stock Prices via an API
+This Jupyter Notebook will show you [how to pull](https://github.com/mattburns963/540/blob/master/Term%20Project%20Burns.ipynb) stock prices. It also has some EDA of the prices. This [PDF](https://github.com/mattburns963/540/blob/master/Stock%20API.pdf) is brief summary.
 
 <br/><br/>
 ### <i class="fa fa-lemon-o fa-3x"></i> Candy Challenge Project
 For this project I wanted to analyze something less serious than I’ve analyzed in other courses in this program. I chose 538’s candy data that details the ingredients of candy and how often it won in a **head to head challenge**. It is not a huge dataset as it only analyzes 85 candies and 13 attributes, but I still ran a [confusion matrix](https://github.com/mattburns963/mattburns963.github.io/blob/master/Candy.pdf) and use the ingredients to forecast weather or not a candy is a winner in 538 candy challenge. 
 The end goal of this project is to identify which features would make a successful candy. For this analysis I defined a winner as a candy that won at least 60% of the time.
-
-
-<br/><br/>
-### <i class="fa fa-plane fa-2x"></i>Two Airline Visualizations
-I made two visualizations on the same topic, airline saftey. [This one](https://github.com/mattburns963/mattburns963.github.io/blob/master/Airline%20Safety%202.0.pdf) is packed with figures and graphs, while [this one](https://github.com/mattburns963/mattburns963.github.io/blob/master/Airline%20Safety%20Infographic.pdf) is for our non-math friends.
 
