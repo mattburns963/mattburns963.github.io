@@ -21,27 +21,21 @@ With experience spanning multiple roles and industries, I am a well versed and a
 
 ## This repository contains academic projects completed in pursuit of my MSDS from Bellevue University.
 
-<br/><br/>
 ### <i class="fa fa-shopping-cart fa-2x"></i> Retail Sales Forecast in R
 Curious about retail sales and how to forecast them? This [presentation](https://github.com/mattburns963/mattburns963.github.io/blob/master/National%20Retail%20Sales.pdf) shows how to accomplish that in R Studio. The [R Studio code](https://github.com/mattburns963/mattburns963.github.io/blob/master/Retail%20Project.R) is avaible here if you're curious. 
 
-<br/><br/>
 ### <i class="fa fa-plane fa-2x"></i>Two Airline Visualizations
 I made two visualizations on the same topic, airline saftey. [This one](https://github.com/mattburns963/mattburns963.github.io/blob/master/Airline%20Safety%202.0.pdf) is packed with figures and graphs, while [this one](https://github.com/mattburns963/mattburns963.github.io/blob/master/Airline%20Safety%20Infographic.pdf) is for our non-math friends. I know which one will convey the info succinctly.
 
-<br/><br/>
 ### <i class="fa fa-car fa-2x"></i> Lost Auto Sales
 In 2Q20 the economy was shut down for all intents and purposes. This [report](https://github.com/mattburns963/680/blob/master/Auto%20white%20paper%2027OCT20.pdf) and [presentation](https://github.com/mattburns963/680/blob/master/Auto%20presentation.pdf) quantify how many auto sales were lost during this period. This [code](https://github.com/mattburns963/680/blob/master/AutoSales.R) for RStudio shows how it can be done.
 
-<br/><br/>
 ### <i class="fa fa-flag fa-2x"></i> Congressional Reapportionment
 This country spends a lot of money on a census to properly apportion congressional seats and allocate the budget. How can this be done without actually counting every citizen? There’s a [report](https://github.com/mattburns963/680/blob/master/Reapportionment%20Report%20P3%2020NOV20.pdf) and a [presentation](https://github.com/mattburns963/680/blob/master/Reapportionment.pdf) for your review. If you’d like to see how easy this is to do in RStudio, click [here](https://github.com/mattburns963/680/blob/master/Apportionment.R).
 
-<br/><br/>
 ### <i class="fa fa-fire fa-2x"></i>Natural Gas vs Employment
 The project included EDA of the data relating to natural gas prices and unemployment in th emining sector. If one is curious about the impact of the lower gnatual gfas prices has on employment they can view this [presentation](https://github.com/mattburns963/530/blob/master/Gas%20Prices%20vs%20Unemployment.pdf) and use this [Jupyter Notebook](https://github.com/mattburns963/530/blob/master/Burns%20530%20Final%20Project.ipynb) to get started.
 
-<br/><br/>
 ### <i class="fa fa-money fa-2x"></i> State Taxation
 Do you pay a lot of taxes in your state? Check out this [R Code to make a markdown file](https://github.com/mattburns963/mattburns963.github.io/blob/master/Final%20M%20D.Rmd) Here's a [PDF](https://github.com/mattburns963/mattburns963.github.io/blob/master/State%20Taxes.pdf) if that's easier.
 
