@@ -2,7 +2,7 @@
 <br/><br/>
 ## Contact Info
 ### email: burns963@yahoo.com
-###  <i class="fa fa-linkedin-square fa-3x"></i> LinkedIn: [www.linkedin.com/in/mattburns963](https://www.linkedin.com/in/mattburns963)
+###  <i class="fa fa-linkedin-square fa-2x"></i> [www.linkedin.com/in/mattburns963](https://www.linkedin.com/in/mattburns963)
 
 <i class="fa fa-linkedin-square fa"></i>
 
